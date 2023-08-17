@@ -64,6 +64,7 @@ while True:
 video.release()
 cv2.destroyAllWindows()
 ```
+![lanedetect](https://github.com/Naveenpandey27/Real-Time-Lane-Detection/assets/66298494/a8bb87c6-b237-4780-93ed-5cd59a24719f)
 
 In this example, the code reads a video file named "1.mp4" and detects the lane lines in each frame. It then draws the detected lane lines on the frames and displays the output in a window. Press 'q' to exit the program.
 
